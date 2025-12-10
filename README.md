@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! <img src="https://media.tenor.com/7LpN7ITDLMEAAAAi/cat-discord.gif" width="25"/>
+
+Im **Dio**, a chill programmer.
+
+Learning skills over time.
+
+---
+
+
 
 <!--
 **dioatro/dioatro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
