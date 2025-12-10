@@ -6,6 +6,13 @@ Learning skills over time.
 
 ---
 
+<a href="https://moewalls.com/pixel-art/night-city-pixel-live-wallpaper/" target="_blank">
+  <img src="https://moewalls.com/wp-content/uploads/2025/02/night-city-pixel-thumb-728x410.jpg"
+       alt="Night City Pixel Live Wallpaper"
+       width="2048" height="876">
+</a>
+
+
 
 
 <!--
